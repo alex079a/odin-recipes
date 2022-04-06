@@ -1,0 +1,36 @@
+body {
+    background-color: #40916c;
+    text-align: center;
+    list-style: none;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+ul{
+    list-style: none;
+}
+
+ol{
+    list-style-position: inside;
+}
+
+li{
+    padding: 8px;
+}
+
+
+div{
+    background-color: #74c69d;
+    border: black;
+    border-radius: 20px;
+    border-style: solid;
+    margin: 15px;
+}
+a {
+    font-size: 23px;
+    text-decoration: none;
+    color: #eaf8ed;
+}
+
+
